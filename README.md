@@ -1,2 +1,2 @@
 # demo-lists-html
-Full Stack Programme using HTML
+Full Stack Programme Technologies using HTML
